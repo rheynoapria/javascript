@@ -1,6 +1,6 @@
 function myObject(){
 
-  var kota =['jakarta','bandung','malang','surabaya']
+  var kota =['bekasi','bandung','malang','surabaya']
 
   console.log(kota)
 
@@ -9,5 +9,7 @@ function myObject(){
   console.log(kotaHapus);
   console.log(kota.length);
 }
+
+
 
 myObject()
